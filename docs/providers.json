@@ -16,6 +16,12 @@
         "name": "AllMoviesForYou",
         "status": 1,
         "url": "https://allmoviesforyou.net"
+        },
+    "RedGifsProvider": {
+        "language": "en",
+        "name": "RedGifs",
+        "status": 1,
+        "url": "https://redgifs.com"
     },
     "AltadefinizioneProvider": {
         "language": "it",
